@@ -1,6 +1,12 @@
 # 🎥 Smart Surveillance System
 
-    > Real-time human detection, tracking, loitering detection, and restricted area monitoring — powered by YOLOv8 and OpenCV.
+   This project is a production-grade **AI-powered surveillance system** that processes live video (webcam or file) to:
+
+- Detect and track multiple people across frames with stable IDs
+- Alert when someone has been in frame too long (**loitering detection**)
+- Alert when someone enters a defined restricted zone (**zone intrusion detection**)
+- Log all events with timestamps to file
+- Save screenshots as visual evidence on alert
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green)
