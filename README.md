@@ -1,5 +1,7 @@
 
 
+
+
 # 🎥 Smart Surveillance System
 
    This project is a production-grade **AI-powered surveillance system** that processes live video (webcam or file) to:
@@ -47,21 +49,13 @@ Built to run on a **normal laptop CPU** — no GPU required.
 
 ---
 
-## 🎬 Demo
-
-To see the system in action, run with the demo video file included in the repo:
-
-```bash
-python main.py --source demo/demo.mp4
-```
-
-> Note: GitHub may not display local MP4 video embeds directly in the README. If the preview does not show, open `demo/demo.mp4` on your computer with any media player.
 
 ![Demo screenshot](screenshots/zone_20260512_133834_071742.jpg)
 
 You can also view the file directly in GitHub by navigating to:
 
-`demo/demo.mp4`
+
+
 
 ---
 
