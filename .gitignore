@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+venv\
+ENV/
+ENV\
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Logs and runtime files
+logs/
+*.log
+
+# Screenshots and outputs
+screenshots/
+
+# Model weights and large binaries
+*.pt
+*.pth
+*.onnx
+
+# VS Code and workspace files
+.vscode/
+workspace.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Other
+.idea/

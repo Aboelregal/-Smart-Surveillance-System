@@ -1,0 +1,16 @@
+# Smart Surveillance System — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core computer vision
+ultralytics>=8.0.0        # YOLOv8 — includes torch as a dependency
+opencv-python>=4.8.0      # Video capture, drawing, image processing
+
+# Tracking math
+scipy>=1.11.0             # Distance matrix for centroid matching
+numpy>=1.24.0             # Array operations
+
+# Web UI
+streamlit>=1.30.0         # Browser-based demo interface
+
+# Logging (stdlib, no install needed)
+# logging — built into Python
