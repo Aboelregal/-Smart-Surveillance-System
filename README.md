@@ -45,6 +45,23 @@ Built to run on a **normal laptop CPU** — no GPU required.
 
 ---
 
+## 🎬 Demo
+
+To see the system in action, run with a video file:
+
+```bash
+python main.py --source demo/demo.mp4
+```
+
+Watch the demo video below:
+
+<video width="640" height="360" controls>
+  <source src="demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🛠 Tech Stack
 
 - **[YOLOv8](https://github.com/ultralytics/ultralytics)** — State-of-the-art real-time object detection
