@@ -47,15 +47,6 @@ Built to run on a **normal laptop CPU** — no GPU required.
 | 📸 **Screenshots** | Auto-saved to `screenshots/` on each alert |
 | 🌐 **Streamlit UI** | Browser-based demo with live feed and alert panel |
 
----
-
-
-![Demo screenshot](screenshots/zone_20260512_133834_071742.jpg)
-
-You can also view the file directly in GitHub by navigating to:
-
-
-
 
 ---
 
